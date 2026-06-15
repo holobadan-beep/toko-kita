@@ -12,9 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "node-telegram-bot-api": "^0.63.0",
-    "axios": "^1.6.5",
-    "moment-timezone": "^0.5.46",
-    "node-cron": "^3.0.2"
+    "axios": "^1.7.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
